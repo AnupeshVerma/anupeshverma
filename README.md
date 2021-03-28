@@ -47,7 +47,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/anupesh-kumar-verma-81a711203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "anupeshkverma121@gmail.com"><img src="\https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+<a href = "anupeshkverma121@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
 </p>
 
