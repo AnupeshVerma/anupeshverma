@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anupesh</h1>
 <h3 align="center">I'm a passionate student.</h3>
 
 
 ## 🙋‍♂️ About Me
 
--  💻 I am an undergraduate learning Computer Science and Engineering at NIT Allahabad.
+-  💻 I am a **B.Tech student** at **Motilal Nehru National Institute Of Technology**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📌 I am looking forward to learn **Python**
+- 📌 I am looking forward to learn **Python** and **Software Development**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -46,8 +46,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.https://www.linkedin.com/in/shubham-anurag-kashyap-942a19205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "shubhamkashyap0608@gmail.com"><img src="\https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+<a href = "https://www.linkedin.com/in/anupesh-kumar-verma-81a711203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "anupeshkverma121@gmail.com"><img src="\https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
 </p>
 
