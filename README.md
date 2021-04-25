@@ -38,16 +38,18 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <br/>
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/anupesh-kumar-verma-81a711203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2htIRUYwQx%2B3DHVms9%2BLLQ%3D%3D/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "anupeshkverma121@gmail.com"><img src="https://image.flaticon.com/icons/png/128/732/732200.png"/></a>
-
+<footer>
+		<p><h4><strong><u>Contact With Me:</u></strong></p>
+			<a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" >
+				<img src="https://image.flaticon.com/icons/png/128/174/174857.png" width="30px" alt="linkedin"/></a>
+			<a href="https://www.facebook.com/Anupeshverma.5">
+				<img src="https://image.flaticon.com/icons/png/128/733/733547.png" width="30px" alt="facebook" /></a>
+			<a href="https://www.instagram.com/anupesh2687/"> <img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="30px" alt="instagram"></a>
+	</footer>
 </p>
 
