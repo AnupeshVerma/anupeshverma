@@ -54,5 +54,4 @@
 			<a target="_blank" href="https://www.instagram.com/anupesh2687/"> <img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="30px" alt="instagram"></a>
 	<a target="_blank" href="mailto:shayhowe@awesome.com?subject=Hi&body=How are you"> <img src="https://image.flaticon.com/icons/png/128/732/732200.png" alt="GMail" width="30px"></a>
 	</footer>
-</p>
 </body>
