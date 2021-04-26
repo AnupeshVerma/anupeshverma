@@ -45,11 +45,12 @@
 
 <footer>
 		<p><h4><strong><u>Contact With Me:</u></strong></p>
-			<a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" >
+			<a target="_blank" href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" >
 				<img src="https://image.flaticon.com/icons/png/128/174/174857.png" width="30px" alt="linkedin"/></a>
-			<a href="https://www.facebook.com/Anupeshverma.5">
+			<a target="_blank" href="https://www.facebook.com/Anupeshverma.5">
 				<img src="https://image.flaticon.com/icons/png/128/733/733547.png" width="30px" alt="facebook" /></a>
-			<a href="https://www.instagram.com/anupesh2687/"> <img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="30px" alt="instagram"></a>
+			<a target="_blank" href="https://www.instagram.com/anupesh2687/"> <img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="30px" alt="instagram"></a>
+	<a target="_blank" href="mailto:shayhowe@awesome.com?subject=Hi&body=How are you"> <img src="https://image.flaticon.com/icons/png/128/732/732200.png" alt="GMail" width="30px"></a>
 	</footer>
 </p>
 
