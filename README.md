@@ -1,9 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
 <p align="center"><a href="#"><img width="50%" height="auto" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></a></p>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anupesh</h1>
 <h3 align="center">I'm a passionate student.</h3>
 
-
+<body>
 ## 🙋‍♂️ About Me
 
 -  💻 I am a **B.Tech student** at **Motilal Nehru National Institute Of Technology**
@@ -44,7 +46,7 @@
 
 
 <footer>
-		<p><h4><strong><u>Contact With Me:</u></strong></p>
+		<h4><strong><u>Contact With Me:</u></strong></h4>
 			<a target="_blank" href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" >
 				<img src="https://image.flaticon.com/icons/png/128/174/174857.png" width="30px" alt="linkedin"/></a>
 			<a target="_blank" href="https://www.facebook.com/Anupeshverma.5">
@@ -53,4 +55,4 @@
 	<a target="_blank" href="mailto:shayhowe@awesome.com?subject=Hi&body=How are you"> <img src="https://image.flaticon.com/icons/png/128/732/732200.png" alt="GMail" width="30px"></a>
 	</footer>
 </p>
-
+</body>
