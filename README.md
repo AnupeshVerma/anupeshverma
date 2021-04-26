@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="50%" height="auto" src="tenor.gif"/></a></p>
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-lDrVzVUUou_SL6JysO9Wv-h4nqjgOOY5VHCIxgvEJXnDAYJfTxPZ7KxllzlkypJ_zo&usqp=CAU"/></a></p>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anupesh</h1>
 <h3 align="center">I'm a passionate student.</h3>
