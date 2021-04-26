@@ -37,8 +37,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
 
 <br/>
 
@@ -47,11 +46,12 @@
 
 <footer>
 		<h4><strong><u>Contact With Me:</u></strong></h4>
-			<a target="_blank" href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" >
-				<img src="https://image.flaticon.com/icons/png/128/174/174857.png" width="30px" alt="linkedin"/></a>
-			<a target="_blank" href="https://www.facebook.com/Anupeshverma.5">
-				<img src="https://image.flaticon.com/icons/png/128/733/733547.png" width="30px" alt="facebook" /></a>
+			<a target="_blank" href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203?challengeId=AQExRuPVADFRBwAAAXkHpx3sXfoo5xeE6rjufGNgUowqWf5WVPs8kDqmlRWyzTYSZcN6TlhbS4IphE5EiYy6IOaqzUjpfjuK0g&submissionId=7c2036b1-0505-7916-81b4-553db7994747" > <img src="https://image.flaticon.com/icons/png/128/174/174857.png" width="30px" alt="linkedin"/></a>
+
+			<a target="_blank" href="https://www.facebook.com/Anupeshverma.5"> <img src="https://image.flaticon.com/icons/png/128/733/733547.png" width="30px" alt="facebook" /></a>
+
 			<a target="_blank" href="https://www.instagram.com/anupesh2687/"> <img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="30px" alt="instagram"></a>
-	<a target="_blank" href="mailto:shayhowe@awesome.com?subject=Hi&body=How are you"> <img src="https://image.flaticon.com/icons/png/128/732/732200.png" alt="GMail" width="30px"></a>
+
+        	<a target="_blank" href="mailto:shayhowe@awesome.com?subject=Hi&body=How are you"> <img src="https://image.flaticon.com/icons/png/128/732/732200.png" alt="GMail" width="30px"></a>
 	</footer>
 </body>
