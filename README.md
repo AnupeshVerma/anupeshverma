@@ -4,6 +4,6 @@
             src="code.gif" /></a></p>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-        width="30px"> I'm Anupesh</h1>
+        width="5px"> I'm Anupesh</h1>
 
   
