@@ -1,5 +1,5 @@
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh</h1>
-<p align="center"><img width="75%" height="200px" src="gif/intro.gif" /></p>        
+<p align="center"><img width="75%" height="200px" src="intro.gif" /></p>        
  
 <h2>🚀 About Me</h2>
 <img src="gif/code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
