@@ -1,4 +1,4 @@
-<h1 align="center">Hi Geeks,<img src="gif/hello_minion.gif" width="40px"/> I'm Anupesh</h1>
+<h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh</h1>
 <p align="center"><img width="75%" height="200px" src="intro.gif" /></p>        
  
 <h2>🚀 About Me</h2>
