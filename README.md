@@ -1,8 +1,8 @@
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh</h1>
-<p align="center"><img width="75%" height="200px" src="intro.gif" /></p>        
+<p align="center"><img width="75%" height="200px" src="gif/intro.gif" /></p>        
  
 <h2>🚀 About Me</h2>
-<img src="code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
+<img src="gif/code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
         <li><h4>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></h4></li>
         <li><h4>🔭 Aspiring to be a <b>Software Developer Engineer</b></h4></li>
