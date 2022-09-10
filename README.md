@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<p align="center"><img width="75%" height="10%"src="intro.gif" /></p>
 <p align="right"><img width="50%" height="auto"src="code.gif" /></p>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/> I'm Anupesh</h1>
         
