@@ -4,11 +4,11 @@
 <h2>🚀 About Me</h2>
 <img src="gif/code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
-        <li><h4>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></h4></li>
-        <li><h4>🔭 Aspiring to be a <b>Software Developer Engineer</b></h4></li>
-        <li><h4>🔭 Presently I am learning DSA</h4></li>
-        <li><h4>🔭 <b>Web Developer</b></h4></li>
-        <li><h4>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></h4></li>
+        <li><p>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></p></li>
+        <li><p>🔭 Aspiring to be a <b>Software Developer Engineer</b></p></li>
+        <li><p>🔭 Presently I am learning <b>DSA</b></p></li>
+        <li><p>🔭 <b>Web Developer</b></p></li>
+        <li><p>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></p></li>
 </ul>
 
         
