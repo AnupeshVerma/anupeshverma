@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <p align="center"><img width="75%" height="200px" src="intro.gif" /></p>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/> I'm Anupesh</h1>
-<p>
-<h2>🚀 About Me</h2>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/> I'm Anupesh</h1>        
 <img width="50%" height="auto"src="code.gif" align="right"/>
+        
+<h2>🚀 About Me</h2>
+
 <ul>
         <li>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></li>
         <li>🔭 Aspiring to be a <b>Software Developer Engineer</b></li>
         <li>🔭 <b>Web Developer</b></li>
-        <li>💬 Talk to me about <b>DSA, Web development, Hackathons, Tech news</b></li>
-
-</p>
+        <li>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></li>
+</ul>
 
         
             
