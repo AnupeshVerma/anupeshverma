@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 <p align="center"><img width="75%" height="200px" src="intro.gif" /></p>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/> I'm Anupesh</h1>        
-<img width="50%" height="auto"src="code.gif" align="right"/>
+<img width="40%" height="auto"src="code.gif" align="right"/>
         
 <h2>🚀 About Me</h2>
 
