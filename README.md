@@ -1,14 +1,14 @@
-<p align="center"><img width="75%" height="200px" src="intro.gif" /></p>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/> I'm Anupesh</h1>        
-<img width="40%" height="auto"src="code.gif" align="right"/>
-        
+<h1 align="center">Hi Geeks,<img src="Icons/hi.gif" width="40px"/> I'm Anupesh</h1>
+<p align="center"><img width="75%" height="200px" src="intro.gif" /></p>        
+ 
 <h2>🚀 About Me</h2>
-
+<img src="code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
-        <li>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></li>
-        <li>🔭 Aspiring to be a <b>Software Developer Engineer</b></li>
-        <li>🔭 <b>Web Developer</b></li>
-        <li>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></li>
+        <li><h4>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></h4></li>
+        <li><h4>🔭 Aspiring to be a <b>Software Developer Engineer</b></h4></li>
+        <li><h4>🔭 Presently I am learning DSA</h4></li>
+        <li><h4>🔭 <b>Web Developer</b></h4></li>
+        <li><h4>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></h4></li>
 </ul>
 
         
