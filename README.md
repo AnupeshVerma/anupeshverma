@@ -6,7 +6,7 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="40px"> I'm Anupesh</h1>
         
-<h3>Connect With Me</h3>
+<h3><img src="Icons/connect.png" alt="🤝" width="3%"/>Connect With Me</h3>
 <p align="center">
             <a target="blank" href="mailto:anupeshkverma121@gmail.com"><img src="Icons/google plus.png" alt="gmail" width="10%" style="padding:0px"/></a>
             <a target="blank" href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
