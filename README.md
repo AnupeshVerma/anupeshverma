@@ -48,14 +48,16 @@
 
 
 <h2>⚙️ GitHub Analytics</h2>
+<table>
  <td align="center">
         <p align="center">
             <a href="https://github.com/anupeshverma"><img align="center" height="195px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
      </td>
     <td align="center" >
-           <a href="https://github.com/anupeshverma"><img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
+           <a href="https://github.com/anupeshverma"><img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical"/></a>
      </td>
         </p>
+</table>
 
 <p align="center">
      <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anupeshverma&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/></a>
