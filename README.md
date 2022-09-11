@@ -46,4 +46,14 @@
             <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203"><img src="Icons/linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
 </p>
 
-  
+<table>
+<tr>
+    <td align="center">
+        <p align="center">
+            <a href="https://github.com/anupeshverma"><img align="center" height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
+     </td>
+    <td align="center">
+           <a href="https://github.com/anupeshverma"><img align="center" height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
+     </td>
+        </p>
+</table>
