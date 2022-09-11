@@ -50,10 +50,10 @@
 <h2>⚙️ GitHub Analytics</h2>
 <table>
  <td align="center">
-           <a href="https://github.com/anupeshverma"><img align="center" height="195px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
+           <a href="https://github.com/anupeshverma"><img align="center" height="200px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
      </td>
     <td align="center" >
-           <a href="https://github.com/anupeshverma"><img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical"/></a>
+           <a href="https://github.com/anupeshverma"><img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical"/></a>
      </td>
        
 </table>
