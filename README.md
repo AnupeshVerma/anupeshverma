@@ -2,7 +2,7 @@
 <p align="center"><img width="75%" height="200px" src="intro.gif" /></p>        
  
 <h2>🚀 About Me</h2>
-<img src="gif/code.gif" width="48%" height="auto" align="right" style="border-radius:50%"/>
+<img src="gif/code.gif" width="45%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
         <li><p>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></p></li>
         <li><p>🔭 Aspiring to be a <b>Software Developer Engineer</b></p></li>
