@@ -53,7 +53,7 @@
             <a href="https://github.com/anupeshverma"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
      </td>
     <td align="center">
-           <a href="https://github.com/anupeshverma"><img align="center" height="190px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
+           <a href="https://github.com/anupeshverma"><img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
      </td>
         </p>
 </tr>
