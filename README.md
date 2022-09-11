@@ -39,7 +39,7 @@
             
 <h2><img src="Icons/connect.png" alt="🤝" width="3%"/> Connect With Me</h2>
 <p align="center">
-            <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/google plus.png" alt="gmail" width="10%" style="padding:0px"/></a>
+            <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
             <a href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
             <a href="https://www.instagram.com/anupesh_verma/"><img src="Icons/instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
             <a href="https://twitter.com/AnupeshVerma"><img src="Icons/twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
