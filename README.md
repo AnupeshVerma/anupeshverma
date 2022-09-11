@@ -50,13 +50,12 @@
 <h2>⚙️ GitHub Analytics</h2>
 <table>
  <td align="center">
-        <p align="center">
-            <a href="https://github.com/anupeshverma"><img align="center" height="195px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
+           <a href="https://github.com/anupeshverma"><img align="center" height="195px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
      </td>
     <td align="center" >
            <a href="https://github.com/anupeshverma"><img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical"/></a>
      </td>
-        </p>
+       
 </table>
 
 <p align="center">
@@ -64,5 +63,9 @@
 </p>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
+<table>
+ <td align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
+ </td>
+ </table>
 
