@@ -44,6 +44,7 @@
             <a href="https://www.instagram.com/anupesh_verma/"><img src="Icons/instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
             <a href="https://twitter.com/AnupeshVerma"><img src="Icons/twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
             <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203"><img src="Icons/linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
+            <a href="https://discordapp.com/users/790637051657060372"><img src="Icons/discord.png" alt="discord" width="10%" style="padding:0px"/></a>
 </p>
 
 
