@@ -47,22 +47,20 @@
 </p>
 
 
-
+<h2>⚙️ GitHub Analytics</h2>
  <td align="center">
         <p align="center">
             <a href="https://github.com/anupeshverma"><img align="center" height="195px"src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical"/></a>
      </td>
-    <td align="center">
+    <td align="center" >
            <a href="https://github.com/anupeshverma"><img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
      </td>
         </p>
 
-
-
-<br>
 <p align="center">
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anupeshverma&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/></a>
+     <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anupeshverma&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/></a>
 </p>
 
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
 
