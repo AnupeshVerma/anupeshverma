@@ -69,3 +69,8 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true" />
     </td>
 </table>
+
+<h2>🎖️Bagdes Earned</h2>
+
+[![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
+
