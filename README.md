@@ -1,7 +1,9 @@
-<h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="rocker2102" />
+<h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
+
 <p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
  
-<h2>🚀 About Me</h2>
+<h2> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"> About Me</h2>
 <img src="gif/code.gif" width="45%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
         <li><p>🎓 Pursuing my Bachelors in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b></p></li>
@@ -13,7 +15,7 @@
 
         
             
-<h2>🛠 Tech Stack</h2>
+<h2><img src="https://thumbs.gfycat.com/GiftedWateryCony-max-1mb.gif" width="35px"> Tech Stack</h2>
 <p>
             <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
             <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,7 +31,7 @@
             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
             
-<h2>💻 IDE/Editors</h2>
+<h2><img src="https://thumbs.gfycat.com/EthicalIllegalFirecrest-max-1mb.gif" width="35px"> IDE/Editors</h2>
 <p>
             <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
             <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -37,7 +39,7 @@
 </p>
             
             
-<h2><img src="Icons/connect.png" alt="🤝" width="3%"/> Connect With Me</h2>
+<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"> Connect With Me</h2>
 <p align="center">
             <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
             <a href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
@@ -48,7 +50,7 @@
 </p>
 
 
-<h2>⚙️ GitHub Analytics</h2>
+<h2> <img src="https://thumbs.gfycat.com/HastyJoyfulDalmatian-size_restricted.gif" width="40px"> GitHub Analytics</h2>
 <table>
     <td align="center">
         <a href="https://github.com/anupeshverma"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical" /></a>
@@ -70,7 +72,7 @@
     </td>
 </table>
 
-<h2>🎖️Bagdes Earned</h2>
+<h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif" width="45px">Bagdes Earned</h2>
 
 [![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
 
