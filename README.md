@@ -39,7 +39,7 @@
 </p>
             
             
-<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"> Connect With Me</h2>
+<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="55px"> Connect With Me</h2>
 <p align="center">
             <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
             <a href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
