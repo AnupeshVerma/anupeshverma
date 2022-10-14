@@ -31,7 +31,7 @@
             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
             
-<h2><img src="https://thumbs.gfycat.com/EthicalIllegalFirecrest-max-1mb.gif" width="35px"> IDE/Editors</h2>
+<h2><img src="gif/ide_used.gif" width="35px"> IDE/Editors</h2>
 <p>
             <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
             <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
@@ -50,7 +50,7 @@
 </p>
 
 
-<h2> <img src="https://thumbs.gfycat.com/HastyJoyfulDalmatian-size_restricted.gif" width="40px"> GitHub Analytics</h2>
+<h2> <img src="gif/github_analytics.gif" width="40px"> GitHub Analytics</h2>
 <table>
     <td align="center">
         <a href="https://github.com/anupeshverma"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical" /></a>
@@ -72,7 +72,7 @@
     </td>
 </table>
 
-<h2><img src="https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif" width="45px">Bagdes Earned</h2>
+<h2><img src="gif/badges_earned.gif" width="45px">Bagdes Earned</h2>
 
 [![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
 
