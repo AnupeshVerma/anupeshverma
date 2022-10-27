@@ -72,7 +72,10 @@
     </td>
 </table>
 
+<!-------------------------------------------------- Badges -------------------------------------------------->
 <h2><img src="gif/badges_earned.gif" width="45px">Bagdes Earned</h2>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/a2de6082-dfa4-4530-8003-749edfd645eb"><img width="356" alt="Google_Cloud_Badges" src="icons/google_cloud_badges.png"></a>
 
 [![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
 
