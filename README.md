@@ -67,11 +67,6 @@
 </p>
 
 <br>
-<table>
-    <td align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true" />
-    </td>
-</table>
 
 <!------------------------------------------ Github Trophy ----------------------------------->
 <h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
@@ -85,3 +80,8 @@
 
 [![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
 
+<table>
+    <td align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true" />
+    </td>
+</table>
