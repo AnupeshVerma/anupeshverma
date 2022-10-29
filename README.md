@@ -30,7 +30,8 @@
             <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
-            
+
+<!------------------------------------------------------------------Editors--------------------------------------------------------------------->
 <h2><img src="gif/ide_used.gif" width="35px"> IDE/Editors</h2>
 <p>
             <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
@@ -49,7 +50,7 @@
             <a href="https://discordapp.com/users/790637051657060372"><img src="Icons/discord.png" alt="discord" width="10%" style="padding:0px"/></a>
 </p>
 
-
+<!---------------------------------------------------------------------------GitHub Analytics ----------------------------------------------------------->
 <h2> <img src="gif/github_analytics.gif" width="40px"> GitHub Analytics</h2>
 <table>
     <td align="center">
@@ -72,7 +73,9 @@
     </td>
 </table>
 
-<!-------------------------------------------------- Badges -------------------------------------------------->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma" alt="anupeshverma" /></a> </p>
+
+<!------------------------------------------------------------------ Badges ------------------------------------------------------------>
 <h2><img src="gif/badges_earned.gif" width="45px">Bagdes Earned</h2>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/a2de6082-dfa4-4530-8003-749edfd645eb"><img width="356" alt="Google_Cloud_Badges" src="Icons/google_cloud_badges.png"></a>
