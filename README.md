@@ -31,7 +31,7 @@
             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
-<!------------------------------------------------------------------Editors--------------------------------------------------------------------->
+<!----------------------------------------------Editors-------------------------------------------------->
 <h2><img src="gif/ide_used.gif" width="35px"> IDE/Editors</h2>
 <p>
             <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
@@ -39,8 +39,8 @@
             <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
             
-            
-<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="55px"> Connect With Me</h2>
+<!------------------------------------------Connect With Me --------------------------------->      
+<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="55px" height="30px"> Connect With Me</h2>
 <p align="center">
             <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
             <a href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
