@@ -70,7 +70,7 @@
 
 <!------------------------------------------ Github Trophy ----------------------------------->
 <h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
-<p align="center"> <a href="https://github.com/anupeshverma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=onedark" alt="anupeshverma" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=onedark" alt="anupeshverma" /> </p>
 
 
 <!------------------------------------------------------------------ Badges ------------------------------------------------------------>
