@@ -50,7 +50,7 @@
             <a href="https://discordapp.com/users/790637051657060372"><img src="Icons/discord.png" alt="discord" width="10%" style="padding:0px"/></a>
 </p>
 
-<!---------------------------------------------------------------------------GitHub Analytics ----------------------------------------------------------->
+<!-----------------------------------------------------------GitHub Analytic---------------------------------------------------->
 <h2> <img src="gif/github_analytics.gif" width="40px"> GitHub Analytics</h2>
 <table>
     <td align="center">
@@ -73,7 +73,10 @@
     </td>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma" alt="anupeshverma" /></a> </p>
+<!------------------------------------------ Github Trophy ----------------------------------->
+<h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
+<p align="center"> <a href="https://github.com/anupeshverma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=onedark" alt="anupeshverma" /></a> </p>
+
 
 <!------------------------------------------------------------------ Badges ------------------------------------------------------------>
 <h2><img src="gif/badges_earned.gif" width="45px">Bagdes Earned</h2>
