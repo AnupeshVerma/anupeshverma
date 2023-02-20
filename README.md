@@ -21,9 +21,10 @@
             <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
             <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
             <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+            <img alt="Git" src="https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white"/>
             <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
             <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-             <img alt="CSS3" src="https://img.shields.io/badge/Tailwind CSS-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+             <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
             <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
 <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
             <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -33,14 +34,14 @@
 </p>
 
 <!----------------------------------------------Editors-------------------------------------------------->
-<h2><img src="gif/ide_used.gif" width="35px"> IDE/Editors</h2>
+<h2><img src="gif/ide_used.gif" width="35px">IDE/Editors</h2>
 <p>
             <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
             <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
             <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
             
-<!------------------------------------------Connect With Me --------------------------------->      
+<!------------------------------------------Connect With Me --------------------------------------------->      
 <h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="55px" height="30px"> Connect With Me</h2>
 <p align="center">
             <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
