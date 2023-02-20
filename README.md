@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="rocker2102" />
+<img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
 
 <p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
