@@ -2,7 +2,7 @@
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
 
 <p align="center">
-  <a href="https://cheerful-baklava-ae0cad.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
+  <a href="https://anupesh-portfolio.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
 </p>
 
 <p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
