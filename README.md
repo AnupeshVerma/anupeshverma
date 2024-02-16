@@ -1,6 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
 
+<p align="center">
+  <a href="https://cheerful-baklava-ae0cad.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
+</p>
+
 <p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
  
 <h2> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"> About Me</h2>
