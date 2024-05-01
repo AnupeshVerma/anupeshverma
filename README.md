@@ -31,7 +31,8 @@
             <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
             <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
             <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  
+            <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=javascript&logoColor=f5f5f5"/>
+            <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs"/>
             <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
             <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
             <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
