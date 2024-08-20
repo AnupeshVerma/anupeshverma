@@ -23,7 +23,7 @@
 </ul>
         
             
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E2eHM0bW4zZ2w4aWxtN21rcWlyNGV1YmpiZGs1cnc1OXgwNmE5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35px"> Programming Languages</h2>
+<h2><img src="gif/programming_languages.gif" width="35px"> Programming Languages</h2>
 <p>
             <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
             <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -31,7 +31,7 @@
 <!--             <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
 </p>
 
-<h2><img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-42-43_512.gif" width="35px"> Web Development</h2>
+<h2><img src="gif/web_development.gif" width="35px"> Web Development</h2>
 <p>
             <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
             <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,7 +42,7 @@
             <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs"/>
             <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
-<h2><img src="https://cdn.dribbble.com/users/1693785/screenshots/5184989/fucken-final.gif" width="35px"> Tools & Libraries</h2>
+<h2><img src="gif/tools_libraries.gif" width="35px"> Tools & Libraries</h2>
 <p>
             <img alt="Git" src="https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white"/>
             <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
