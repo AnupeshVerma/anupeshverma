@@ -60,10 +60,12 @@
 </p>
 
 <h2><img src="gif/tools_libraries.gif" width="35px"> Tools & Libraries</h2>
-<p>
+<p>   
+            <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas"/>
+            <img alt="PySpark" src="https://img.shields.io/badge/pyspark-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" />
+            <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
             <img alt="Git" src="https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white"/>
             <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-            <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
