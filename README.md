@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
-<h1 align="center">Data Engineer</h1>
+<!-- <h1 align="center">Data Engineer</h1> -->
 
 <p align="center">
   <a href="https://anupesh-portfolio.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
@@ -12,7 +12,7 @@
 <img src="gif/code.gif" width="45%" height="auto" align="right" style="border-radius:50%"/>
 <ul>
         <li><p>🎓 <b>Bachelor in Technology </b> in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b>, 2024 Graduate</p></li>
-        <li><p>🔭 Presently, working as <b>Data Engineer</b></p></li>
+<!--         <li><p>🔭 Presently, working as <b>Data Engineer</b></p></li> -->
         <li><p>💬 Talk to me about <b>DevOps, BigData, Machine Learning, Warehousing, Tech news</b></p></li>
 </ul>
 <!-- <h2> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"> About Me</h2> -->
@@ -30,19 +30,18 @@
             <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=PgSQL&logoColor=4479A1"/>
 </p>
 
-<h2><img src="gif/web_development.gif" width="35px"> Data Engineering </h2>
+<h2><img src="gif/web_development.gif" width="35px"> Web Development </h2>
 
 <p>
-<!--     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-    <img alt ="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-    <img alt ="Snowflake" src="https://img.shields.io/badge/Snowflake-017CEE?style=for-the-badge&logo=snowflake&logoColor=white"/>
+   
   
 </p>
 
@@ -50,6 +49,8 @@
 <p>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="Tornado" src="https://img.shields.io/badge/Tornado-46A2D9?style=for-the-badge&logo=tornado&logoColor=white"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    
 </p>
 
 #### Database
@@ -57,10 +58,13 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt ="Snowflake" src="https://img.shields.io/badge/Snowflake-017CEE?style=for-the-badge&logo=snowflake&logoColor=white"/>
+    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-46A2D9?style=for-the-badge&logo=Cassandra&logoColor=white"/>
 </p>
 
 <h2><img src="gif/tools_libraries.gif" width="35px"> Tools & Libraries</h2>
-<p>   
+<p>         
+            <img alt ="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
             <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas"/>
             <img alt="PySpark" src="https://img.shields.io/badge/pyspark-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" />
             <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
