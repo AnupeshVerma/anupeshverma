@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Data Engineer</h1> -->
 
 <p align="center">
-  <a href="https://anupesh-portfolio.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
+  <a href="https://anupeshportfolio.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
 </p>
 
 <p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
