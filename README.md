@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%9D%20Data%20is%20a%20precious%20thing%20and%20will%20last%20longer%20than%20the%20systems%20themselves%20%E2%9D%9E-Tim%20Berners--Lee-36BCF7?style=flat-square" alt="&quot;Data is a precious thing and will last longer than the systems themselves.&quot; — Tim Berners-Lee"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anupeshverma&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
 <!-- ============================== BANNER ============================== -->
 <p align="center">
   <img src="assets/banners/github-poster.gif" alt="Anupesh Kumar Verma — Data Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Engineer;Building+reliable%2C+scalable+data+pipelines;Batch+%2B+Streaming+%7C+Warehousing+%7C+Cloud;Airflow+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Kafka+%E2%80%A2+Spark" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Engineer;Building+reliable%2C+scalable+data+pipelines;Batch+%2B+Streaming+%7C+Warehousing+%7C+Cloud;Airflow+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Kafka+%E2%80%A2+Spark" alt="Typing SVG" />
 </p>
 
 <!-- ============================== PORTFOLIO ============================== -->
@@ -19,15 +23,12 @@
 <!-- ============================== CONNECT ============================== -->
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203" title="LinkedIn"><img src="assets/icons/social/linkedin.png" width="60" alt="LinkedIn"/></a>
-  <a href="mailto:anupeshkverma121@gmail.com" title="Email"><img src="assets/icons/social/gmail.png" width="60" alt="Email"/></a>
-  <a href="https://twitter.com/AnupeshVerma" title="X / Twitter"><img src="assets/icons/social/twitter.png" width="60" alt="X / Twitter"/></a>
-  <a href="https://discordapp.com/users/790637051657060372" title="Discord"><img src="assets/icons/social/discord.png" width="60" alt="Discord"/></a>
+  <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203" title="LinkedIn"><img src="assets/icons/social/linkedin.png" width="72" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anupeshkverma121@gmail.com" title="Email"><img src="assets/icons/social/gmail.png" width="72" alt="Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/AnupeshVerma" title="X / Twitter"><img src="assets/icons/social/twitter.png" width="72" alt="X / Twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/790637051657060372" title="Discord"><img src="assets/icons/social/discord.png" width="72" alt="Discord"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupeshverma&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
 
 ---
 
