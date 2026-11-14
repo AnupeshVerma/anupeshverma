@@ -1,129 +1,155 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
-<h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Anupesh </h1>
-<!-- <h1 align="center">Data Engineer</h1> -->
+<!-- ============================== BANNER ============================== -->
+<p align="center">
+  <img src="assets/banners/github-poster.gif" alt="Anupesh Kumar Verma — Data Engineer" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://anupeshportfolio.netlify.app/" style="font-size: 24px; color: red; text-decoration: none;">My Portfolio</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Engineer;Building+reliable%2C+scalable+data+pipelines;Batch+%2B+Streaming+%7C+Warehousing+%7C+Cloud;Airflow+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Kafka+%E2%80%A2+Spark" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center"><img width="80%" height="300px" src="gif/intro2.gif" /></p>        
- 
-<h2> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"> About Me</h2>
-<img src="gif/code.gif" width="45%" height="auto" align="right" style="border-radius:50%"/>
-<ul>
-        <li><p>🎓 <b>Bachelor in Technology </b> in <b>Electronic and Communication Enginnering</b> from <b>NIT Allahabad (MNNIT)</b>, 2024 Graduate</p></li>
-<!--         <li><p>🔭 Presently, working as <b>Data Engineer</b></p></li> -->
-        <li><p>💬 Talk to me about <b>DevOps, BigData, Machine Learning, Warehousing, Tech news</b></p></li>
-</ul>
-<!-- <h2> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"> About Me</h2> -->
-<!-- <img src="gif/code.gif" width="45%" height="auto" align="right" style="border-radius:50%"/> -->
-<ul>
-        <li><p>🥇 <b>14th Global Rank in Hacksquad:</b> Contributed to open-source projects in a team event.</p></li>
-        <li><p>🏆 <b>Platinum Winner in DevElevate:</b> Excelled in a blog writing competition by Showwcase.</p></li>
-</ul>
-        
-            
-<h2><img src="gif/programming_languages.gif" width="35px"> Programming Languages</h2>
-<p>
-            <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-            <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-            <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=PgSQL&logoColor=4479A1"/>
-</p>
-
-<h2><img src="gif/web_development.gif" width="35px"> Web Development </h2>
-
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-   
-  
-</p>
-
-#### Backend
-<p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img alt="Tornado" src="https://img.shields.io/badge/Tornado-46A2D9?style=for-the-badge&logo=tornado&logoColor=white"/>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-    
-</p>
-
-#### Database
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt ="Snowflake" src="https://img.shields.io/badge/Snowflake-017CEE?style=for-the-badge&logo=snowflake&logoColor=white"/>
-    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-46A2D9?style=for-the-badge&logo=Cassandra&logoColor=white"/>
-</p>
-
-<h2><img src="gif/tools_libraries.gif" width="35px"> Tools & Libraries</h2>
-<p>         
-            <img alt ="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-            <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas"/>
-            <img alt="PySpark" src="https://img.shields.io/badge/pyspark-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" />
-            <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-            <img alt="Git" src="https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white"/>
-            <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-            <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</p>
-
-<!----------------------------------------------Editors-------------------------------------------------->
-<h2><img src="gif/ide_used.gif" width="35px"> IDE/Editors</h2>
-<p>
-            <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-            <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-            <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-</p>
-            
-<!------------------------------------------Connect With Me --------------------------------------------->      
-<h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="55px" height="30px"> Connect With Me</h2>
+<!-- ============================== PORTFOLIO ============================== -->
 <p align="center">
-            <a href="mailto:anupeshkverma121@gmail.com"><img src="Icons/gmail.png" alt="gmail" width="10%" style="padding:0px"/></a>
-            <a href="https://m.facebook.com/Anupesh_verma"><img src="Icons/facebook.png" alt="facebook" width="10%"  style="padding:0px"/></a>
-            <a href="https://www.instagram.com/anupesh_verma/"><img src="Icons/instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
-            <a href="https://twitter.com/AnupeshVerma"><img src="Icons/twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
-            <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203"><img src="Icons/linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
-            <a href="https://discordapp.com/users/790637051657060372"><img src="Icons/discord.png" alt="discord" width="10%" style="padding:0px"/></a>
+  <a href="https://anupeshportfolio.netlify.app/" title="anupeshportfolio.netlify.app">
+    <img src="assets/buttons/portfolio-button.svg" width="340" alt="View My Portfolio"/>
+  </a>
 </p>
 
-<!-----------------------------------------------------------GitHub Analytic---------------------------------------------------->
-<h2> <img src="gif/github_analytics.gif" width="40px"> GitHub Analytics</h2>
-<table>
-    <td align="center">
-        <a href="https://github.com/anupeshverma"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&locale=en&theme=radical" /></a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/anupeshverma"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
-    </td>
-
-</table>
+<!-- ============================== CONNECT ============================== -->
 
 <p align="center">
-    <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anupeshverma&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats" /></a>
+  <a href="https://in.linkedin.com/in/anupesh-kumar-verma-81a711203" title="LinkedIn"><img src="assets/icons/social/linkedin.png" width="60" alt="LinkedIn"/></a>
+  <a href="mailto:anupeshkverma121@gmail.com" title="Email"><img src="assets/icons/social/gmail.png" width="60" alt="Email"/></a>
+  <a href="https://twitter.com/AnupeshVerma" title="X / Twitter"><img src="assets/icons/social/twitter.png" width="60" alt="X / Twitter"/></a>
+  <a href="https://discordapp.com/users/790637051657060372" title="Discord"><img src="assets/icons/social/discord.png" width="60" alt="Discord"/></a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupeshverma&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
 
-<!------------------------------------------ Github Trophy ----------------------------------->
-<h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=onedark" alt="anupeshverma" /> </p>
+---
 
+## 👨‍💻 About Me
 
-<!------------------------------------------------------------------ Badges ------------------------------------------------------------>
-<h2><img src="gif/badges_earned.gif" width="45px">Bagdes Earned</h2>
+<img src="assets/gifs/coding.gif" width="36%" align="right" alt="coding"/>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/a2de6082-dfa4-4530-8003-749edfd645eb"><img width="356" alt="Google_Cloud_Badges" src="Icons/google_cloud_badges.png"></a>
+I'm a **Data Engineer** who builds the plumbing that turns raw, scattered data into **trusted, analytics-ready datasets**. I work across the full data lifecycle — ingestion, transformation, modeling, orchestration, and deployment — with a strong focus on **reliability, data quality, and automation**.
 
-[![@anupesh_verma's Holopin board](https://holopin.io/api/user/board?user=anupesh_verma)](https://holopin.io/@anupesh_verma)
+- 🔭 Building **batch & streaming pipelines** and **dimensional data models** as a Data Engineer
+- 🏗️ Designing ELT workflows with **Airflow + dbt + Snowflake**
+- 🌊 Working with event streams using **Kafka**
+- ⚙️ Shipping data infrastructure the engineering way — **Docker, Terraform, CI/CD**
+- 🎓 **B.Tech, Electronics & Communication Engineering** — NIT Allahabad (MNNIT), 2024
+- 💬 Happy to talk **Data Modeling, Data Warehousing, Streaming, DevOps for Data**
 
-<table>
-    <td align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=anupeshverma&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true" />
-    </td>
-</table>
+<br clear="right"/>
+
+---
+
+## <img src="assets/gifs/gears.gif" width="35px" alt=""/> How I Build Data Platforms
+
+```mermaid
+flowchart LR
+    A[("Sources<br/>OLTP DBs · APIs · Files")] --> B["Ingestion<br/>Kafka · Python · AWS S3"]
+    B --> C[("Raw / Staging<br/>Snowflake")]
+    C --> D["Transform & Model<br/>dbt · Spark"]
+    D --> E[("Marts<br/>Facts & Dimensions")]
+    E --> F["Consumers<br/>BI · Analytics · ML"]
+    O["Orchestration<br/>Apache Airflow"] -.-> B
+    O -.-> D
+    G["Infra & Delivery<br/>Docker · Terraform · CI/CD"] -.-> O
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Orchestration & Transformation** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
+| **Streaming & Big Data Processing** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Data Warehouses & Databases** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) |
+| **Cloud, DevOps & CI/CD** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Also worked with — Backend & Web** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Tornado](https://img.shields.io/badge/Tornado-46A2D9?style=flat-square&logo=tornado&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+
+---
+
+## 🧩 Core Competencies
+
+| Area | What I do |
+|------|-----------|
+| **Data Ingestion** | Build batch and streaming ingestion from databases, APIs, files, and Kafka topics into the lake/warehouse |
+| **Transformation & Modeling** | Layered dbt models (staging → marts), star-schema facts & dimensions, reusable macros |
+| **Orchestration** | Airflow DAGs with dependencies, retries, backfills, and alerting |
+| **Data Warehousing** | Snowflake, Aurora & PostgreSQL — schema design, query tuning, stored procedures |
+| **Distributed Processing** | Large-scale transformations with Spark / PySpark |
+| **DataOps** | Containerized workloads with Docker, infra-as-code with Terraform, automated testing & deploys via CI/CD |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Zomato Data Modeling**](https://github.com/anupeshverma/Zomato_AI_Data_Analysis) | dbt project modeling food-delivery data: source definitions, staging models for orders, menus, users, restaurants and reviews, and a dimensional mart layer (`dim_customer`, `dim_restaurants`, `dim_food`, `dim_date`) with custom schema macros | `dbt` `SQL` `Data Modeling` |
+| [**HandyScripts**](https://github.com/anupeshverma/HandyScripts) | Practical data-engineering utilities: AWS S3 → Snowflake ETL, S3 file management, CSV → DB loaders, Postgres → Pandas extraction, file-format conversion, and GenAI/LLM experiments | `Python` `AWS S3` `Snowflake` `PostgreSQL` |
+| [**HandyQueries**](https://github.com/anupeshverma/HandyQueries) | Reusable PostgreSQL functions and stored procedures for automating repetitive query workloads | `PL/pgSQL` `PostgreSQL` |
+
+<p align="center">
+  <a href="https://github.com/anupeshverma/Zomato_AI_Data_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupeshverma&repo=Zomato_AI_Data_Analysis&theme=tokyonight&hide_border=true" alt="Zomato_AI_Data_Analysis"/></a>
+  <a href="https://github.com/anupeshverma/HandyScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupeshverma&repo=HandyScripts&theme=tokyonight&hide_border=true" alt="HandyScripts"/></a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **14th Global Rank — Hacksquad:** contributed to open-source projects in a team event
+- 🏅 **Platinum Winner — DevElevate (Showwcase):** technical blog writing competition
+- ☁️ **Google Cloud Skills Boost:** earned multiple GCP skill badges — [view profile](https://www.cloudskillsboost.google/public_profiles/a2de6082-dfa4-4530-8003-749edfd645eb)
+
+## <img src="assets/gifs/badges-earned.gif" width="40px" alt=""/> Badges Earned
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/a2de6082-dfa4-4530-8003-749edfd645eb"><img width="356" alt="Google Cloud Skills Boost badges" src="assets/badges/google-cloud-badges.png"/></a>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@anupesh_verma"><img src="https://holopin.io/api/user/board?user=anupesh_verma" alt="@anupesh_verma's Holopin board"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anupeshverma&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupeshverma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
+
+## <img src="assets/gifs/trophy.gif" width="40px" alt=""/> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:36BCF7&height=100&section=footer" alt="footer"/>
+</p>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#g)"/>
+  <rect x="12" y="12" width="1176" height="276" rx="12" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="10 8" opacity="0.6"/>
+  <text x="600" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#f8fafc">Anupesh Kumar Verma</text>
+  <text x="600" y="185" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#7dd3fc">Data Engineer · Pipelines · Warehousing · Cloud</text>
+</svg>
