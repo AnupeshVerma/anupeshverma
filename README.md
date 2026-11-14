@@ -99,11 +99,6 @@ flowchart LR
 | [**HandyScripts**](https://github.com/anupeshverma/HandyScripts) | Practical data-engineering utilities: AWS S3 → Snowflake ETL, S3 file management, CSV → DB loaders, Postgres → Pandas extraction, file-format conversion, and GenAI/LLM experiments | `Python` `AWS S3` `Snowflake` `PostgreSQL` |
 | [**HandyQueries**](https://github.com/anupeshverma/HandyQueries) | Reusable PostgreSQL functions and stored procedures for automating repetitive query workloads | `PL/pgSQL` `PostgreSQL` |
 
-<p align="center">
-  <a href="https://github.com/anupeshverma/Zomato_AI_Data_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupeshverma&repo=Zomato_AI_Data_Analysis&theme=tokyonight&hide_border=true" alt="Zomato_AI_Data_Analysis"/></a>
-  <a href="https://github.com/anupeshverma/HandyScripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anupeshverma&repo=HandyScripts&theme=tokyonight&hide_border=true" alt="HandyScripts"/></a>
-</p>
-
 ---
 
 ## 🏆 Achievements
@@ -127,8 +122,8 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anupeshverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupeshverma&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-alpha-drab-65.vercel.app/api?username=anupeshverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-alpha-drab-65.vercel.app/api/top-langs?username=anupeshverma&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -136,13 +131,13 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupeshverma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph-ten-lovat.vercel.app/graph?username=anupeshverma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
 </p>
 
 ## <img src="assets/gifs/trophy.gif" width="40px" alt=""/> GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupeshverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy-eight-kappa.vercel.app/?username=anupeshverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies"/>
 </p>
 
 ---
