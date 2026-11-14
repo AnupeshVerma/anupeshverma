@@ -6,7 +6,7 @@
 
 <!-- ============================== BANNER ============================== -->
 <p align="center">
-  <img src="assets/banners/github-poster.gif" alt="Anupesh Kumar Verma — Data Engineer" width="100%" />
+  <img src="assets/banners/GithubPosterVideo.gif" alt="Anupesh Kumar Verma — Data Engineer" width="100%" />
 </p>
 
 <p align="center">
