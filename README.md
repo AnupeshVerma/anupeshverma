@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9D%9D%20Data%20is%20a%20precious%20thing%20and%20will%20last%20longer%20than%20the%20systems%20themselves%20%E2%9D%9E-Tim%20Berners--Lee-36BCF7?style=flat-square" alt="&quot;Data is a precious thing and will last longer than the systems themselves.&quot; — Tim Berners-Lee"/>
-  &nbsp;
+  <i>"Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=anupeshverma&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
